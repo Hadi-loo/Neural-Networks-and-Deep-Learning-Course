@@ -1,0 +1,21 @@
+[submodule "NNDL-CA1-Fully-Connected-Neural-Networks"]
+	path = NNDL-CA1-Fully-Connected-Neural-Networks
+	url = https://github.com/Hadi-loo/NNDL-CA1-Fully-Connected-Neural-Networks.git
+[submodule "NNDL-CA2-CNNs"]
+	path = NNDL-CA2-CNNs
+	url = https://github.com/Hadi-loo/NNDL-CA2-CNNs.git
+[submodule "NNDL-CA3-SAM-FasterRCNN"]
+	path = NNDL-CA3-SAM-FasterRCNN
+	url = https://github.com/Hadi-loo/NNDL-CA3-SAM-FasterRCNN.git
+[submodule "NNDL-CA4-LSTMs"]
+	path = NNDL-CA4-LSTMs
+	url = https://github.com/Hadi-loo/NNDL-CA4-LSTMs.git
+[submodule "NNDL-CA5-Transformers"]
+	path = NNDL-CA5-Transformers
+	url = https://github.com/Hadi-loo/NNDL-CA5-Transformers.git
+[submodule "NNDL-CA6-VAE-GAN"]
+	path = NNDL-CA6-VAE-GAN
+	url = https://github.com/Hadi-loo/NNDL-CA6-VAE-GAN.git
+[submodule "NNDL-CA7-LoRA-FraudDetection"]
+	path = NNDL-CA7-LoRA-FraudDetection
+	url = https://github.com/Hadi-loo/NNDL-CA7-LoRA-FraudDetection.git
